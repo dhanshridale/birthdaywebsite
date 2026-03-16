@@ -623,7 +623,7 @@ body {
  .cricle{
         position: absolute;
         top: 15px;
-        right: -90px;
+        right: -80px;
         display: flex;
         justify-content: center;
         align-items: center;
